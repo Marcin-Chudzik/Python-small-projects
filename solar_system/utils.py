@@ -8,7 +8,7 @@ def get_horizon_data(nasaids, names, colors, sizes, start_date="2022-01-01"):
 
     for i, nasaid in enumerate(nasaids):
         obj = Horizons(id=nasaid, location="@sun", epochs=Time(start_date).jd, id_type="id").vectors()
-        print("-"*100)
+        print("-" * 100)
         print(f"Downloading data for {names[i]}: ")
         print(obj)
 
