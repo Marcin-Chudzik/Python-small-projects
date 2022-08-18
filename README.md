@@ -9,4 +9,5 @@
 <ol>
   <li>Vertical throw simulation</li>
   <li>Solar system animation</li>
+  <li>Data visualization</li>
 </ol>
