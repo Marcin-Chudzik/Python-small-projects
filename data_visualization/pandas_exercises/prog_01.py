@@ -34,4 +34,4 @@ plot = new_df.plot(
     title="Reloading in the port of Gdynia"
 )
 
-plot.get_figure().savefig("files/graph.png")
+plot.get_figure().savefig("../files/graph.png")
