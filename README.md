@@ -10,4 +10,6 @@
   <li>Vertical throw simulation</li>
   <li>Solar system animation</li>
   <li>Data visualization programs</li>
+  <li>Python exercies</li>
+  <li>Operating systems - Performance test</li>
 </ol>
