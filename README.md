@@ -5,7 +5,7 @@
   </a>
 </h3>  
 <hr>
-<h3>List of programs:</h3>
+<h3>I divide book on few different parts:</h3>
 <ol>
   <li>Vertical throw simulation</li>
   <li>Solar system animation</li>
